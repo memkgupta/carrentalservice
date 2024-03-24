@@ -17,7 +17,7 @@ module.exports = {
       colors: {
         "black-100": "#2B2C35",
         "primary-yellow": {
-          DEFAULT: "#f7c307",
+          DEFAULT: "#ffeb7d",
           100: "#d4a602",
         },
         "secondary-orange": "#f79761",
